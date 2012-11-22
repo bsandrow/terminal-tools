@@ -2,9 +2,9 @@
 Terminal Tools
 ==============
 
-A bunch of tools for dealing with terminals. I'm starting this as a compilation
-of various scripts that are scattered over the web for displaying terminal
-color codes.
+A bunch of termainl tools that I've scraped from the web. None of them are
+really 'formal' in that there is no source repository, package, or maintainer.
+This is just my way of giving them a bit of a home.
 
 Credits
 -------
@@ -21,5 +21,4 @@ author and request it) I will remove them from this repository.
 
 License
 -------
-
 See LICENSE.
